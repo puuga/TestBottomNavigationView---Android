@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Test Bottom Navigation View</string>
+    <string name="text_favorites">Favorites</string>
+    <string name="text_schedules">Schedules</string>
+    <string name="text_music">Music</string>
+
+    <string name="hello_blank_fragment_a">Hello blank fragment A</string>
+    <string name="hello_blank_fragment_b">Hello blank fragment B</string>
+    <string name="hello_blank_fragment_c">Hello blank fragment C</string>
+</resources>
