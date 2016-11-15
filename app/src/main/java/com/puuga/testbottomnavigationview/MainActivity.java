@@ -70,6 +70,5 @@ public class MainActivity extends AppCompatActivity implements
                 return false;
         }
         return true;
-//        return false;
     }
 }
